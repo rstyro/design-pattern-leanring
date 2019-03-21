@@ -2,22 +2,24 @@
 
 #### 介绍
 设计模式学习
-
+Design Patterns - Elements of Reusable Object-Oriented Software 书中 提到的总共有 23 种设计模式  
+这些模式可以分为三大类：  
++ 创建型模式（Creational Patterns）、  
++ 结构型模式（Structural Patterns）、  
++ 行为型模式（Behavioral Patterns）     
+> 然后 J2EE 又有几个模式，比如mvc 模式啥的
++ J2EE 模式
 #### 软件架构
-软件架构说明
+springboot ,其实Java 项目就可以了，但是咧，springboot 方便，可以做一些高级的模式
 
 
 #### 安装教程
 
-1. xxxx
-2. xxxx
-3. xxxx
+不需要安装，有JDK 就行
 
 #### 使用说明
 
-1. xxxx
-2. xxxx
-3. xxxx
+看到 包下的 `Main` 这个类，运行 `main` 方法就行了
 
 #### 参与贡献
 
@@ -28,10 +30,4 @@
 
 
 #### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+xxxxxxxx
