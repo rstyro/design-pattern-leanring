@@ -5,6 +5,9 @@ import lombok.ToString;
 import top.lrshuai.design.action.state.interfaces.State;
 import top.lrshuai.design.action.state.interfaces.impl.*;
 
+/**
+ * 它就是那个含有状态的对象，它可以处理一些请求，这些请求最终产生的响应会与状态相关
+ */
 @Data
 public class Context {
     private State state;

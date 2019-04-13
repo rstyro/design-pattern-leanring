@@ -5,6 +5,9 @@ import lombok.ToString;
 import top.lrshuai.design.action.state.entity.Context;
 import top.lrshuai.design.action.state.interfaces.State;
 
+/**
+ * 具体状态，实现相关行为的具体状态类
+ */
 @Data
 @ToString
 public class AngryState implements State {

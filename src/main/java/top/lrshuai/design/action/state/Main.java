@@ -19,7 +19,5 @@ public class Main {
         context.happy();
         context.joy();
         context.sorrow();
-
-
     }
 }
